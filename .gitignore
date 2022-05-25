@@ -1,0 +1,9 @@
+# Virtualenv folder
+/venv
+
+# Cache and Static folders
+__pycache__/
+static/
+
+# Database files
+*.sqlite3
